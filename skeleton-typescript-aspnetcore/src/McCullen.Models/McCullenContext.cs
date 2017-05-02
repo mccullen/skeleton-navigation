@@ -2,14 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.IO;
+using Microsoft.EntityFrameworkCore;
 
 namespace McCullen.Models
 {
-    public class Class1
+    public class McCullenContext : DbContext
     {
-        public void Method()
-		{
-		}
     }
 }
