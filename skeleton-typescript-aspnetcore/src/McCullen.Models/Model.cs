@@ -7,5 +7,6 @@ namespace McCullen.Models
 {
     public class Model
     {
+
     }
 }
